@@ -77,6 +77,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       3.Execute or Run
       4.Get the Output
  <img src="https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/How%20a%20Simple%20Change%20in%20Sales%20Language%20Affects%20Your%20Bottom%20Line%20open%20graph.jpg" alt="alternatetext" width="250" height="250">
+      
     </p>
     </aside>
     
